@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368560128872",
+    "project_id": "devcommunity-60c4f",
+    "storage_bucket": "devcommunity-60c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368560128872:android:091ba4680fbdeb19aa4cdd",
+        "android_client_info": {
+          "package_name": "com.example.jijiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368560128872-9nos2re734rg59u7imccg3jg5seg12hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBXqhzM5WEoyw47bu-25lI0g_EmpFASk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368560128872-9nos2re734rg59u7imccg3jg5seg12hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
